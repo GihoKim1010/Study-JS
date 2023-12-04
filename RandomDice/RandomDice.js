@@ -20,3 +20,6 @@ switch (random) {
         document.write("<img src='dice6_6.jpg'>")
         break;
 }
+
+
+// 위의 내용들을 document.write("<img src='dice6_" + (Math.floor(Math.random() * 6) + 1) +".jpg'>"); 로 한줄 요약 시킬 수 있다.
