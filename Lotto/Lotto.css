@@ -1,0 +1,16 @@
+#Index{
+    width: 300px;
+    display: flex;
+}
+
+#myNum{
+    width: 100px;
+}
+
+#ranNum{
+    width: 100px;
+}
+
+#result{
+    width: 100px;
+}
